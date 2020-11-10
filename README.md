@@ -8,10 +8,11 @@ We will provide recommendations to increase popularity of any article by tweakin
 <li>We implemented different learning algorithms on the dataset, ranging from various classification technique like Logistic Regression, Decision Tree ,Random Forest & other Tree Boosted Models. 
 <li>Their performances are recorded and compared. 
 <li>Feature selection methods are used to improve performance and reduce features.
-<li> ### LightGBM Forest turns out to be the best model for prediction, and it can achieve an auc score of 73.4% with optimal parameters.
 
 # Final Model Predictions
 ![alt text](https://github.com/ankurbisht/Online-News-Popularity/blob/main/Score.png?raw=true)
+
+### LightGBM Forest turns out to be the best model for prediction, and it can achieve an auc score of 73.4% with optimal parameters.
 
 # Recommendations
 <li>Restrict article word length to 2500 words
