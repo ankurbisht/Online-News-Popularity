@@ -3,8 +3,9 @@ With the expansion of the Internet, more and more people enjoy reading and shari
 
 # Objective:
 We will provide recommendations to increase popularity of any article by tweaking some of the charateristics like number of words, number of images  of the article.Our work can help online news companies to improve news popularity before publishing it.
- 
+  
  # Final Model Predictions
+![alt text](https://github.com/ankurbisht/Online-News-Popularity/blob/main/Score.png?raw=true)
 
 # Recommendations
 <li>Restrict article word length to 2500 words
