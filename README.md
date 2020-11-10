@@ -4,4 +4,13 @@ With the expansion of the Internet, more and more people enjoy reading and shari
 # Objective:
 We will provide recommendations to increase popularity of any article by tweaking some of the charateristics like number of words, number of images  of the article.Our work can help online news companies to improve news popularity before publishing it.
  
- 
+ # Final Model Predictions
+
+# Recommendations
+<li>Restrict article word length to 2500 words
+<li>Number of embedded links should be in range 0-25
+<li>Number of images should be in range 0-10. Lesser the better
+<li>Number of videos should be between 0-5. Lesser the better
+<li>References to older articles which have high popularity
+<li>Publish articles on weekend
+<li>Focusing more on Entertainment or Lifestyle articles can get you popularity
